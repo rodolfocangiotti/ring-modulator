@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ringmodulator' target in the 'ringmodulator' project.
+//
+
+#include "pluginterfaces/base/fplatform.h"
+
+// FILE COPIATO ED EDITATO DAL PROGETTO 'ADELAY'...
